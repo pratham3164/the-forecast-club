@@ -1,8 +1,6 @@
 # the_forecast_club
 
-A new Flutter project.
-
-## Getting Started
+<img src="assets/screenshots/1.png" width="170" height="320">   <img src="assets/screenshots/1.png"  width="170" height="320">  
 
 This project is a starting point for a Flutter application.
 
